@@ -1,0 +1,4 @@
+config
+message.js
+node_modules
+.gitignore

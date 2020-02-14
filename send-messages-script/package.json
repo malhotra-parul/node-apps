@@ -1,0 +1,19 @@
+{
+  "name": "send-messages-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.2.5",
+    "node-cron": "^2.0.3",
+    "textmagic-client": "^2.0.1067",
+    "textmagic-rest-client": "^1.0.10",
+    "twilio": "^3.39.4"
+  }
+}
